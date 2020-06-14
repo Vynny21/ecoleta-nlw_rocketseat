@@ -159,4 +159,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Made with :black_heart: by Diziano
+Made with :black_heart: by Vynny21 (Vinicius Prudencio)
